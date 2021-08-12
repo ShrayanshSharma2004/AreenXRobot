@@ -54,7 +54,8 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": ""
+      "required": true,
+      "value": "https://www.paypal.me/ShrayanshSharma27"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
