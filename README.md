@@ -1,4 +1,4 @@
-# [Miss Rose Bot](https://t.me/MissRose_bot)
+# [Areen Robot](https://t.me/AreenXRobot)
 
 ### Deploy
 
